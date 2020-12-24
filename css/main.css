@@ -1,0 +1,13 @@
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+.tool-item {
+    max-width: 768px;
+    margin: 0 auto;
+}
